@@ -1,6 +1,8 @@
 # MegatronJS
 # NodeJS Discord bot using DiscordJS
 
+![decepticon](https://i.warosu.org/data/tg/img/0373/94/1421351379086.png)
+
 ### Dependencies
 NodeJS
 
