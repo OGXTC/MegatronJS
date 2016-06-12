@@ -1,7 +1,7 @@
 # MegatronJS
 # NodeJS Discord bot using DiscordJS
 
-<img src="https://camo.githubusercontent.com/749cf7f175a202cb5cad8a42610abfe550f8bbdd/68747470733a2f2f692e7761726f73752e6f72672f646174612f74672f696d672f303337332f39342f313432313335313337393038362e706e67" align="center" height="300" width="250" >
+<img src="https://camo.githubusercontent.com/749cf7f175a202cb5cad8a42610abfe550f8bbdd/68747470733a2f2f692e7761726f73752e6f72672f646174612f74672f696d672f303337332f39342f313432313335313337393038362e706e67" align="middle" height="300" width="250" >
 
 ### Dependencies
 NodeJS
