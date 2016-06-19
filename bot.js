@@ -24,7 +24,7 @@ var startTime = Date.now();
 var admin_ids = require("./config.json").admin_ids;
 var cmdPrefix = require("./config.json").command_prefix;
 var aliases;
-var final = "★ Sent with aspires skype tool ★";
+var final = "";
 
 /*
 ========================
